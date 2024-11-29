@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "美味意大利面",
+      "image": "https://tse4-mm.cn.bing.net/th/id/OIP-C.mUYdSCjyUBNVYd46i7LhlwHaE3?rs=1&pid=ImgDetMain",
+      "ingredients": ["意大利面条", "番茄酱", "肉末", "洋葱", "大蒜", "芝士"],
+      "steps": ["煮意大利面条", "炒香洋葱和大蒜", "加入肉末炒熟", "倒入番茄酱翻炒", "将煮好的面条放入锅中拌匀", "撒上芝士"]
+    },
+    {
+      "id": 2,
+      "title": "香甜苹果派",
+      "image": "https://tse3-mm.cn.bing.net/th/id/OIP-C.LVna-I4CBzUFsFLcbRoSawHaJ4?rs=1&pid=ImgDetMain",
+      "ingredients": ["苹果", "面粉", "黄油", "糖", "鸡蛋", "肉桂粉"],
+      "steps": ["制作派皮", "切好苹果并加糖和肉桂粉拌匀", "将苹果馅放入派皮中", "放入烤箱烤制"]
+    }
+  ]
